@@ -1,0 +1,17 @@
+.car-container{
+    max-height: 100vh !important;
+    width: 100% !important;
+    @media (min-width : 280px) and (max-width : 992px) {
+        display: none !important;
+        
+    }
+    
+}
+.car-cap{
+    font-weight: 600;
+    text-transform: uppercase;
+    color: black !important;
+}
+.but1{
+    color: black !important;
+}

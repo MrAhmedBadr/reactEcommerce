@@ -1,0 +1,10 @@
+.ann-container{
+    background-color: rgb(13, 153, 153) ;
+    width: 100% !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    font-size: 130%;
+}
